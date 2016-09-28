@@ -17,12 +17,14 @@ Le damos a opción "New SSH key" y pegamos la clave generada para añadirla.
 
 
 **2. Configuración de perfil**
+
 Añadiremos nuestro usuario y correo mediante los siguientes comandos para que aparezcan en los commits.
 
 	git config --global user.name "MariaMma6"
 	git config --global user.email mariia_ma_6@hotmail.com
 
 **3. Creación de hitos e issues**
+
 Crearemos nuestro primer hito el cual será la entrega de la práctica 0, y además crearemos un issue para
 actualizar el archivo README.md
 
