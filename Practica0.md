@@ -12,7 +12,8 @@ Se nos generará una clave la cual encontraremos en el archivo C:\Users\Maria Mar
 Copiamos dicha clave y nos dirigimos al apartado Personal Settings de nuestro GitHub,concretamente a la pestaña SSH and GPG keys.
 Le damos a opción "New SSH key" y pegamos la clave generada para añadirla.
 
-![img](https://github.com/MariaMma6/IV//imagenes/P0-0.PNG  " ")
+![img](https://github.com/MariaMma6/IV/blob/hito0/imagenes/P0-0.PNG  " ")
+
 
 
 **2. Configuración de perfil**
@@ -25,15 +26,15 @@ Añadiremos nuestro usuario y correo mediante los siguientes comandos para que ap
 Crearemos nuestro primer hito el cual será la entrega de la práctica 0, y además crearemos un issue para
 actualizar el archivo README.md
 
-![img](https://github.com/MariaMma6/IV//imagenes/P0-1.PNG  " ")
+![img](https://github.com/MariaMma6/IV/blob/hito0/imagenes/P0-1.PNG  " ")
 
 Seguidamente clonaremos nuestro repositorio.
 
-![img](https://github.com/MariaMma6/IV//imagenes/P0-2.PNG  " ")
+![img](https://github.com/MariaMma6/IV/blob/hito0/imagenes/P0-2.PNG  " ")
 
 Actualizamos nuestro archivo README.md y cerramos el issue creado para dicha tarea.
 
-![img](https://github.com/MariaMma6/IV//imagenes/P0-3.PNG  " ")
+![img](https://github.com/MariaMma6/IV/blob/hito0/imagenes/P0-3.PNG  " ")
 
 
 **4. Creación de ramas**
@@ -48,5 +49,5 @@ Y nos posicionamos en ella para subir la practica 0:
 	git branch
 
 
-![img](https://github.com/MariaMma6/IV//imagenes/P0-4.PNG  " ")
+![img](https://github.com/MariaMma6/IV/blob/hito0/imagenes/P0-4.PNG  " ")
 
