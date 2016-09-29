@@ -1,31 +1,31 @@
-##PR¡CTICA 0 - Discos en RAID
+##PR√ÅCTICA 0
 
-**1. CreaciÛn de clave ssh y aÒadido a GitHub de la misma**
+**1. Creaci√≥n de clave ssh y a√±adido a GitHub de la misma**
 
 Para generar la clave ssh-rsa usaremos el siguiente comando:
 
 
 	ssh-keygen -t rsa -C "mariia_ma_6@hotmail.com"
 
-Se nos generar· una clave la cual encontraremos en el archivo C:\Users\Maria Martin\.ssh\id_rsa.pub
+Se nos generar√° una clave la cual encontraremos en el archivo C:\Users\Maria Martin\.ssh\id_rsa.pub
 
-Copiamos dicha clave y nos dirigimos al apartado Personal Settings de nuestro GitHub,concretamente a la pestaÒa SSH and GPG keys.
-Le damos a opciÛn "New SSH key" y pegamos la clave generada para aÒadirla.
+Copiamos dicha clave y nos dirigimos al apartado Personal Settings de nuestro GitHub,concretamente a la pesta√±a SSH and GPG keys.
+Le damos a opci√≥n "New SSH key" y pegamos la clave generada para a√±adirla.
 
 ![img](https://github.com/MariaMma6/IV/blob/hito0/imagenes/P0-0.PNG  " ")
 
 
 
-**2. ConfiguraciÛn de perfil**
+**2. Configuraci√≥n de perfil**
 
-AÒadiremos nuestro usuario y correo mediante los siguientes comandos para que aparezcan en los commits.
+A√±adiremos nuestro usuario y correo mediante los siguientes comandos para que aparezcan en los commits.
 
 	git config --global user.name "MariaMma6"
 	git config --global user.email mariia_ma_6@hotmail.com
 
-**3. CreaciÛn de hitos e issues**
+**3. Creaci√≥n de hitos e issues**
 
-Crearemos nuestro primer hito el cual ser· la entrega de la pr·ctica 0, y adem·s crearemos un issue para
+Crearemos nuestro primer hito el cual ser√° la entrega de la pr√°ctica 0, y adem√°s crearemos un issue para
 actualizar el archivo README.md
 
 ![img](https://github.com/MariaMma6/IV/blob/hito0/imagenes/P0-1.PNG  " ")
@@ -39,9 +39,9 @@ Actualizamos nuestro archivo README.md y cerramos el issue creado para dicha tar
 ![img](https://github.com/MariaMma6/IV/blob/hito0/imagenes/P0-3.PNG  " ")
 
 
-**4. CreaciÛn de ramas**
+**4. Creaci√≥n de ramas**
 
-Por ˙ltimo creamos una rama:
+Por √∫ltimo creamos una rama:
 
 	git cheackout -b hito0
 	git push origin hito0
