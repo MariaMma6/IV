@@ -1,4 +1,4 @@
-##PRÁCTICA 0 - Discos en RAID
+##PRÁCTICA 0
 
 **1. Creación de clave ssh y añadido a GitHub de la misma**
 
